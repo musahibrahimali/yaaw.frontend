@@ -1,6 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
+const withPlugins = require('next-compose-plugins');
+const withVideos = require('next-videos');
 
-module.exports = nextConfig
+module.exports = withPlugins(
+  [
+    [withVideos, {}],
+  ],
+  {
+    reactStrictMode: false,
+    distDir: 'build',
+  }
+);

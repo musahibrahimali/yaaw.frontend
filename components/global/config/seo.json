@@ -1,0 +1,26 @@
+{
+  "title": "Ghana Pre Order | Where quality matters - order for your product at your own convenience",
+  "titleTemplate": "%s - Ghana Pre Order",
+  "description": "Are you in need of a product from any country but ghana, look no further, we are here to help with mini importations at affordable prices.",
+  "openGraph": {
+    "title": "Ghana Pre Order | Where quality matters - order for your product at your own convenience",
+    "description": "Are you in need of a product from any country but ghana, look no further, we are here to help with mini importations at affordable prices.",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://nextjs.org/commerce",
+    "site_name": "Ghana Pre Order",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": 800,
+        "height": 600,
+        "alt": "ghana pre order"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@ghanapreorder",
+    "site": "@ghanapreorder",
+    "cardType": "summary_large_image"
+  }
+}
